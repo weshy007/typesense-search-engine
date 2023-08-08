@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 django = "*"
+typesense = "*"
+python-decouple = "*"
+djangorestframework = "*"
 
 [dev-packages]
 
